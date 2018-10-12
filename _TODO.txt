@@ -1,0 +1,70 @@
+Change Builder Wand Recipes (+)
+Test BetterQuesting Theme
+Check bloodmoon vanish option
+	Should it be disabled to force players to deal with mobs, or enabled to reduce lag?
+Check bloodmoon fullmoon option
+	Should it be disabled for randomness or enabled for dramatic effect?
+Change DE celestial manipulator recipe (+)
+Add to carryon blacklists
+Possibly disable chisel basalt, limestone, and marble worldgen
+Anything with C&B?
+Maybe disable dynamictrees "enableAppleTrees" so oaks drop apples?
+Possibly change enderchest size? Find way to upgrade from in game??
+Balance Harvestcraft by adding seeds to grass drops or changing prices
+Ensure all books work on inspirations/bibliocraft bookshelves
+Add to inspirations "fires"
+	Magma Block, blazing pyro, lava, etc
+Add to inspirations "smashing"
+	Possible mod compats?
+Change linear "blacklist" to include troublesome mod blocks
+OpenModularTurrets
+	offline mode to true?
+	adjust eu to rf ratio
+Disable Mekanism "perChunk" ores to let other mods manage world gen?
+Disable Scannable "logBlockDropLookupFailures"
+Ensure all ores are on Scannable ores list
+Check if soundfilters reverb distance needs lowered to reduce lag
+Modify ArcadeMod "prizelist.json"
+Possibly add TE Hardened ingot to Steves Carts hardened repair materials?
+Change Sync "overrideDeathIfThereAreAvailableShells" if there are gravestones incompatabilities
+Balance SpartanShields hp values to resource requirements
+Possibly add to AE2 Facades
+Add Draconic Evolution Fusion Crafting recipes?
+Enable Draconic Evolution Hard Mode?
+Adjust Thermal Expansion morb blacklist?
+Adjust Thermal Expansion machine power needs
+Disable duplicate armors and tools
+Enable EnvTech Ores?
+Configure Geolosys to manage all ores?
+	Disable ores from:
+		GregTech
+		Matter Overdrive
+		Thermal Mods
+		Dooglamoo Worlds
+Add stone types to Geolosys "user entries"
+Adjust Recycler loss chance
+UniDict?
+Adjust VeinMiner
+Disable Jerky?
+Configure OpenTurrets Recipes
+Tweak ProgressiveBosses per armor and weapons in the pack
+Disable OpenComputers Manual
+Remove Machine Frames from Minecart Loot
+
+
+COSMETIC:
+	Set Ding sound to custom load chirp
+	Configure Default Options
+
+!!!DELETE JEI CFGs!!!
+
+Unmodified (need to learn more to know what needs changed):
+	ExtraBitManipulation
+	DSurround
+	MatterOverDrive
+	SecurityCraft
+	OpenComputers
+	TechReborn
+	
+MOD PROGRESSION ORDER:
+	Tinkers/Pams
