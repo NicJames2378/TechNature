@@ -53,7 +53,6 @@ Remove Machine Frames from Minecart Loot
 
 
 COSMETIC:
-	Set Ding sound to custom load chirp
 	Configure Default Options
 
 !!!DELETE JEI CFGs!!!
@@ -65,6 +64,3 @@ Unmodified (need to learn more to know what needs changed):
 	SecurityCraft
 	OpenComputers
 	TechReborn
-	
-MOD PROGRESSION ORDER:
-	Tinkers/Pams
