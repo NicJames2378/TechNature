@@ -16,7 +16,6 @@ Add to inspirations "fires"
 	Magma Block, blazing pyro, lava, etc
 Add to inspirations "smashing"
 	Possible mod compats?
-Change linear "blacklist" to include troublesome mod blocks
 OpenModularTurrets
 	offline mode to true?
 	adjust eu to rf ratio
@@ -47,7 +46,6 @@ UniDict?
 Adjust VeinMiner
 Disable Jerky?
 Configure OpenTurrets Recipes
-Tweak ProgressiveBosses per armor and weapons in the pack
 Disable OpenComputers Manual
 Remove Machine Frames from Minecart Loot
 
@@ -56,11 +54,3 @@ COSMETIC:
 	Configure Default Options
 
 !!!DELETE JEI CFGs!!!
-
-Unmodified (need to learn more to know what needs changed):
-	ExtraBitManipulation
-	DSurround
-	MatterOverDrive
-	SecurityCraft
-	OpenComputers
-	TechReborn
