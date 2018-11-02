@@ -6,17 +6,9 @@
 TechNature Modpack Official Documentation
 =========================================
 
-Testing to see if I can add content to index
-
-Title are underlined with equals signs too
-==========================================
-
-It work?
-
 .. toctree::
    :maxdepth: 2
-   :caption: About
+   :caption: Table Of Contents
    
-   about
-   testerpage
+   aboutthepack
    
