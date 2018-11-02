@@ -1,6 +1,6 @@
 .. Lines starting with two dots are special commands. But if no command can be found, the line is considered as a comment
 
-TesterPage
+RST Help
 ==========
 
 Note that there must be as many equals signs as title characters.
