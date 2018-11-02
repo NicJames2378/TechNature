@@ -6,6 +6,13 @@
 TechNature Modpack Official Documentation
 =========================================
 
+Testing to see if I can add content to index
+
+Title are underlined with equals signs too
+==========================================
+
+It work?
+
 .. toctree::
    :maxdepth: 2
    :caption: About
@@ -13,13 +20,3 @@ TechNature Modpack Official Documentation
    about
    testerpage
    
-==========
-IndexPGTst
-==========
-
-Testing to see if I can add content to index
-
-Title are underlined with equals signs too
-==========================================
-
-It work?
